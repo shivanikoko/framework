@@ -1,5 +1,5 @@
 {
-    "name": "laravel-zero/framework",
+    "name": "shivanikoko/framework",
     "description": "The Laravel Zero Framework.",
     "keywords": ["framework", "laravel", "laravel zero", "console", "cli"],
     "homepage": "https://laravel-zero.com",
@@ -10,8 +10,8 @@
     },
     "authors": [
         {
-            "name": "Nuno Maduro",
-            "email": "enunomaduro@gmail.com"
+            "name": "Shivani Sehdev",
+            "email": "shivanisehdev86@gmail.com"
         }
     ],
     "require": {
@@ -34,7 +34,7 @@
         "nunomaduro/laravel-console-task": "^1.4",
         "nunomaduro/laravel-desktop-notifier": "^2.3",
         "psr/log": "^1.1",
-        "symfony/console": "^4.3",
+        "symfony/console": "^5.0",
         "symfony/debug": "^4.3",
         "symfony/process": "^4.3",
         "symfony/var-dumper": "^4.3"
